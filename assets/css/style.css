@@ -1109,7 +1109,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #186eb4;
-  color: #fff;
+  color: #000000;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1121,7 +1121,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #ef7f4d;
+  background: #186eb4;
   color: #fff;
   text-decoration: none;
 }
